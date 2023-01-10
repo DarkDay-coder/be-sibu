@@ -56,3 +56,8 @@ if error encountered (libssl error)
 ## GIT configuration
 
 
+
+
+
+##### killall -15 node
+
